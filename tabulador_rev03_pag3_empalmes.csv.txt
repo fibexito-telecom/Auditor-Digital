@@ -1,0 +1,10 @@
+descripcion_partida,unidad,precio_nacional,precio_caracas
+Instalacion Cajas NAP (Incluye empalmes, preparacion puntas, anclaje en poste o pared),Ud.,12,12
+Instalacion Manga Red FTTX hasta 24 Empalmes (Incluye Preparacion Puntas),Ud.,25,25
+Instalacion Manga Red FTTX de 24 hasta 48 Empalmes (Incluye Preparacion Puntas),Ud.,40,40
+Instalacion Manga Red FTTX de 49 hasta 96 Empalmes (Incluye Preparacion Puntas),Ud.,70,70
+Instalacion Manga Red FTTX de 49 hasta 96 Empalmes (Incluye Preparacion Puntas),Ud.,24,24
+Instalacion Manga Red FTTX de 97 hasta 144 Empalmes (Incluye Preparacion Puntas),Ud.,110,110
+Instalacion ODF 48 Puertos (Incluye preparacion Puntas),Ud.,40,40
+Instalacion ODF 96 Puertos (Incluye preparacion Puntas),Ud.,80,80
+Instalacion ODF 144 Puertos (Incluye preparacion Puntas),Ud.,110,110

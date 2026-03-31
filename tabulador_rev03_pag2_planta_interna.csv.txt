@@ -1,0 +1,12 @@
+descripcion_partida,unidad,precio_nacional,precio_caracas
+Tendido Acometida FTTH de cable de F.O. incluyendo el tendido de hilo guia (Interior Edificio),m,0.45,0.60
+Instalacion (fijacion) Caja FTTH en edificio (no incluye los empalmes),Ud.,1.00,1.00
+Instalacion de tuberias metalicas tipo EMT hasta dos pulgadas,m,1.00,1.00
+Instalacion de cajas de paso internas hasta 12x12 Pulgadas,Ud.,5.00,5.00
+Tendido de tuberias corrugadas anaranjadas o Metalicos,ml,1.00,1.00
+Demolicion y reconstruccion de paredes de bloques hasta 1.0 M2,M2,8.00,8.00
+Desmantelamiento y reposicion de techo raso o de pared de Dry Wall,M2,6.00,6.00
+Instalacion FTTH a cliente final hasta 100 metros Con 2 Conectores mecanicos,Ud.,20.00,20.00
+Instalacion FTTH a Cliente Final con cable Preconectorizado en poste y conector mecanico en casa,Ud.,16.00,16.00
+Adicional Por metro cable Drop a acometida (despues de 100 metros),ml,0.15,0.15
+Limpieza de tanquilla,Ud.,3.00,3.00

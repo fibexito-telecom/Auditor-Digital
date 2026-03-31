@@ -1,0 +1,22 @@
+descripcion_partida,unidad,precio_nacional,precio_caracas
+Exploración y tendido de hilo guía en ducto vacío u ocupado,ML,0.4,0.4
+Tendido de cable de F.O. en canalizaciones de CANTV,ML,0.4,0.4
+Tendido de cable de F.O. en canalizaciones de CORPOELEC 13.800v,ML,0.4,0.4
+Achique de tanques con aguas de lluvias y no contaminadas,Tanque,5,5
+Achique de tanques con Aguas Contaminadas o Aguas Negras,Tanque,15,15
+Tendido de subductos tipo HDPE en canalizaciones de CANTV,ML,0.4,0.4
+Seno de reserva en tanquilla o tanque telefónico en cables en servicio,ML,0.2,0.2
+Exploración de canalizaciones para actualizar su registro,Ud.,3.5,3.5
+Localización y eliminación de asfalto en tapas de Tanques Telef.,Ud.,5.5,5.5
+Localización y Reparación de obstrucción de canalización con cables en servicio,Ud.,15,15
+Construcción de tramo de canalización en áreas Verdes 30 cm profundidad,ML,1,1
+Construcción de tramo de canalización Sobre concreto (Incluye resane concreto),ML,5,5
+Tendido de Fibra Óptica aéreo en postes de electricidad y telefónicos (Recorrido área Urbana),ML,0.35,0.4
+Tendido de Fibra Óptica aéreo en postes de electricidad y telefónicos Cable Plano (Hilos),ML,0.25,0.3
+Tendido de fibra Óptica Aéreo en postes de Corpoelec Tramos Interurbanos,ML,0.4,0.4
+Poda media en tendidos Interurbanos,ML,0.2,0.2
+Tendido de Fibra Preconectorizada (incluye tramos Preconectorizado Herraje y Caja NAP),Ud.,26,26
+Instalacion Jumper Preconectorizado y Caja NAP preconectorizada en el mismo poste,Ud.,5,5
+Sembrado de Poste de 8.23 (incluye Hueco Sembrado en concreto Aplomado y franja verde),Ud.,45,45
+Sembrado de Poste de 10.67 (incluye Hueco Sembrado en concreto Aplomado y franja verde),Ud.,55,55
+Desinstalacion de Fibra Optica incluye recuperacion de herrajes,ML,0.2,0.2

@@ -1,0 +1,12 @@
+numero,tipo_ico,revision_vigente,codigo_informe
+1,Sembrado de Postes:,REV-02,PE-PO-01
+2,Planta externa:,REV-02,PE-TEN-02
+3,Implementación de Mangas y Mangas HUB:,REV-02,IMP-M-MH-03
+4,Implementación – Empalme NAP.,REV-01,IMP-FU-02
+5,Implementación – Preconectorizado:,REV-03,IMP-PRE-03
+6,ODF:,REV-03,NP-ODF-01
+7,Vertical – Estándar:,REV-02,VER-TRA-01
+8,Vertical – Hibrido:,REV-01,VER-H-02
+9,Relevamiento:,REV-01,REL-GEN-01
+10,Poda y desmalezamiento:,REV-01,MTTO - PYD - 02
+11,Mantenimiento – Reparación y Mantenimiento:,REV-02,MTTO - 01
